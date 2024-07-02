@@ -1,11 +1,11 @@
-# Financial-Model
+# Financial-Models
 This financial model provides a framework for analyzing the financial performance and forecasting future results. By modifying assumptions and reviewing outputs, users can gain valuable insights to support informed decision-making.
 
 
 
 
 ## Sales and Profit Forecast MS Excel
-### Taak
+### Task
 Avalable inputs:
 understanding of gross profit and EBITDA for the company, now and moving forward;
 predictions of when new ranges will launch;
